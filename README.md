@@ -1,2 +1,2 @@
-# Task-1-landing-page-
-Elevate Labs internship task-1
+# Elevate Labs-
+Elevate Labs internship Task-1-landing-page task-1
